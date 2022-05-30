@@ -1,7 +1,7 @@
 # eCom
 a php project for "project 200". course- CSE
 
-eCom is an e-commerce project developed with Raw PHP.
+eCom is an e-commerce project developed with Raw PHP and JavaScript.
 
 it has features like product showcase, add to cart, payment mathod, social login and so on.
 
